@@ -1,5 +1,10 @@
 # Acoustic-Fire-Suppression-System-
 An experimental fire suppression system that uses sound waves to disrupt the flame and reduce combustion. The project is built using an Arduino Nano, speaker/subwoofer, amplifier, and buzzer, demonstrating an alternative approach to conventional fire suppression using acoustic energy.
+## 🔗 Project Simulation
+
+The fire detection and control circuit was simulated using Tinkercad Circuits.
+
+**Simulation link :** https://www.tinkercad.com/things/97PhO552LjV-tejas-arote
 /*
  * ============================================================
  *          ACOUSTIC FIRE SUPPRESSION SYSTEM
